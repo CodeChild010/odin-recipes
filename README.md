@@ -1,1 +1,2 @@
 # odin-recipes
+This project will consist of a index/home page containing a list of different foods and their corresponding recipes from the video game Minecraft. The page will include the implementation gif file types, list, and hyperlink inserts at a basic level to be later improved upon.
